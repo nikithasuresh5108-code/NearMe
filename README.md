@@ -121,13 +121,12 @@ villas.html
 </html>
 ```
 ## OUTPUT
-![alt text](<Screenshot 2025-12-01 110636.png>)
-![alt text](<Screenshot 2025-12-01 110615-1.png>)
-![alt text](<Screenshot 2025-12-01 110548.png>)
-![alt text](<Screenshot 2025-12-01 111352.png>)
-![alt text](<Screenshot 2025-12-01 110242.png>)
-![alt text](<Screenshot 2025-12-01 110158.png>)
-
+![alt text](<Screenshot 2025-12-01 114038.png>)
+![alt text](<Screenshot 2025-12-01 114022.png>)
+![alt text](<Screenshot 2025-12-01 114006.png>)
+![alt text](<Screenshot 2025-12-01 113949.png>)
+![alt text](<Screenshot 2025-12-01 113937.png>)
+![alt text](<Screenshot 2025-12-01 113920.png>)
 
 
 
